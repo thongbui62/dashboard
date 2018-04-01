@@ -1,0 +1,4 @@
+login:
+http://localhost/PLaravel/login
+	user:thong
+	pass:1
